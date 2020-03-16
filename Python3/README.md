@@ -1,2 +1,3 @@
-#Python3 
+#Python3
+
 CW exercises
