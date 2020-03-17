@@ -1,3 +1,7 @@
-<h6>Return the number (count) of vowels in the given string. 
+<h1> Vowel Count Function </h1>
+
+Return the number (count) of vowels in the given string. 
+  
 We will consider a, e, i, o, and u as vowels for this Kata.
-The input string will only consist of lower case letters and/or spaces.</h6>
+
+The input string will only consist of lower case letters and/or spaces.
