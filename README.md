@@ -1,3 +1,2 @@
-# CW
-CodeWars Practice
-CW is a project about all my coding exercises
+# Codewars' Kata
+## My solutions for Codewars' Kata https://www.codewars.com
