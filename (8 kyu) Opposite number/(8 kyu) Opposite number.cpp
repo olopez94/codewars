@@ -1,5 +1,5 @@
 int opposite(int number) 
 {
-  return -abs(number);
+  return -number;
   // return number*-1;
 }
