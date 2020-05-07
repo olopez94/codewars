@@ -6,3 +6,10 @@ std::string even_or_odd(int number)
     return "Odd";
     }
 }
+
+/*
+std::string even_or_odd(int num) 
+{
+  return (num%2==0)?"Even":"Odd";
+}
+*/
