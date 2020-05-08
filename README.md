@@ -5,3 +5,6 @@
 
 
 <b>A collection of TDD katas (simple programs) written in  Python, R, SQL and C++ to learn and have fun!</b>
+
+## 8 kyu Katas
+[**(8 kyu) Multiply**](https://www.codewars.com/kata/multiply/)
