@@ -11,4 +11,4 @@
 
 [**(8 kyu) Opposite number**](https://www.codewars.com/kata/opposite-number) ([Description](https://github.com/olopez94/CW/blob/master/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.md)): [[Python](https://github.com/olopez94/CW/blob/master/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.py)] / [[R](https://github.com/olopez94/CW/blob/master/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.r)] / [SQL] / [[C++](https://github.com/olopez94/CW/blob/master/(8%20kyu)%20Opposite%20number/(8%20kyu)%20Opposite%20number.cpp)]
 
-[**(8 kyu Even or Odd)**]() ([Description]()):
+[**(8 kyu Even or Odd)**](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) ([Description]()):
