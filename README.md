@@ -35,4 +35,8 @@
 [C++]
 
 [**(7 kyu) Highest and Lowest**](https://www.codewars.com/kata/554b4ac871d6813a03000035)
-([Description]()):
+([Description](https://github.com/olopez94/codewars/blob/master/(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.md)):
+[[Python](https://github.com/olopez94/codewars/blob/master/(7%20kyu)%20Highest%20and%20Lowest/(7%20kyu)%20Highest%20and%20Lowest.py)] /
+[R] /
+[SQL] /
+[C++]
