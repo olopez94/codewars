@@ -7,3 +7,10 @@ def high_and_low(numbers):
     numbers = ' '.join(str(i) for i in numbers)
     
     return numbers
+
+
+'''
+def high_and_low(numbers):
+    nums = sorted(numbers.split(), key=int)
+    return '{} {}'.format(nums[-1], nums[0])
+'''
