@@ -6,3 +6,8 @@ def disemvowel(string):
             newString = newString.replace(item, "")
     
     return newString
+
+'''
+def disemvowel(s):
+    return s.translate(None, "aeiouAEIOU")
+'''
