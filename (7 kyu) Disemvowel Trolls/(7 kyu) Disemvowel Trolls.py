@@ -11,3 +11,10 @@ def disemvowel(string):
 def disemvowel(s):
     return s.translate(None, "aeiouAEIOU")
 '''
+
+'''
+def disemvowel(s):
+    for i in "aeiouAEIOU":
+        s = s.replace(i,'')
+    return s
+'''
