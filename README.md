@@ -33,6 +33,12 @@
 [SQL] /
 [C++]
 
+[**(8 kyu) Find the smallest integer in the array**](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
+([Description](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20Find%20the%20smallest%20integer%20in%20the%20array.md)):
+[[Python](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20%20Find%20the%20smallest%20integer%20in%20the%20array/(8%20kyu)%20%20Find%20the%20smallest%20integer%20in%20the%20array.py) /
+[R] /
+[SQL] /
+[C++]
 
 ## 7 kyu Katas
 [**(7 kyu) Vowel Count**](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
