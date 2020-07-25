@@ -26,6 +26,14 @@
 [[SQL](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.sql)] / 
 [[C++](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20Even%20or%20Odd/(8%20kyu)%20Even%20or%20Odd.cpp)]
 
+[**(8 kyu) Calculate Average**](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+([Description](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20Calculate%20average/(8%20kyu)%20Calculate%20average.md)):
+[[Python](https://github.com/olopez94/codewars/blob/master/(8%20kyu)%20Calculate%20average/(8%20kyu)%20Calculate%20average.py)] /
+[R] /
+[SQL] /
+[C++]
+
+
 ## 7 kyu Katas
 [**(7 kyu) Vowel Count**](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 ([Description](https://github.com/olopez94/codewars/blob/master/(7%20kyu)%20Vowel%20Count/(7%20kyu)%20Vowel%20Count.md)):
